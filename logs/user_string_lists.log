@@ -1,0 +1,23 @@
+2023-09-10 23:18:44,351 =============================================================
+2023-09-10 23:18:44,351 =============================================================
+2023-09-10 23:18:44,351 Today is 2023-09-10 at 11:18 PM
+2023-09-10 23:18:44,376 This file is running on: nt Windows 10
+2023-09-10 23:18:44,376 The Python version is: 3.11.5
+2023-09-10 23:18:44,376 The active conda environment is:  None
+2023-09-10 23:18:44,377 The active pip environment is:    None
+2023-09-10 23:18:44,377 The active environment path is:   C:\Program Files\Python311
+2023-09-10 23:18:44,377 The current working directory is: C:\Users\MR011023\Documents\datafun-03-datatypes
+2023-09-10 23:18:44,377 This source file is in:           C:\Users\MR011023\Documents\datafun-03-datatypes
+2023-09-10 23:18:44,377 =============================================================
+2023-09-10 23:18:44,377 =============================================================
+2023-09-10 23:18:44,377 Calling functions from main block
+2023-09-10 23:18:44,377 Calling built_in_function()
+2023-09-10 23:18:44,377 There are 6 patients on the schedule today.
+2023-09-10 23:18:44,377 There list of unique departments {'Emergency', 'Oncology', 'Cardiology', 'Radiology', 'Pharmacy'}.
+2023-09-10 23:18:44,377 The combined list of doctors and nurses is: [('Spock', 'Sanger'), ('Wilken', 'Nightingale'), ('Tom', 'Barton'), ('Strange', 'Mahoney'), ('Zhivago', 'Whitman'), ('Who', 'Henderson')].
+2023-09-10 23:18:44,377 Today's on-call physician is Dr. Zhivago.
+2023-09-10 23:18:44,377 Calling random_choice()
+2023-09-10 23:18:44,377 Random sentence: Dr. Tom will be in Radiology on Monday with nurse Mahoney to see Frank.
+2023-09-10 23:18:44,377 Calling get_unique_words() for Julius Caesar
+2023-09-10 23:18:44,380 There are 20728 words in the file.
+2023-09-10 23:18:44,380 There are 4967 unique words in the file.
