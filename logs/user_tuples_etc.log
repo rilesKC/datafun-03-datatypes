@@ -1,0 +1,24 @@
+2023-09-10 23:47:21,443 =============================================================
+2023-09-10 23:47:21,443 =============================================================
+2023-09-10 23:47:21,443 Today is 2023-09-10 at 11:47 PM
+2023-09-10 23:47:21,466 This file is running on: nt Windows 10
+2023-09-10 23:47:21,466 The Python version is: 3.11.5
+2023-09-10 23:47:21,466 The active conda environment is:  None
+2023-09-10 23:47:21,466 The active pip environment is:    None
+2023-09-10 23:47:21,466 The active environment path is:   C:\Program Files\Python311
+2023-09-10 23:47:21,466 The current working directory is: C:\Users\MR011023\Documents\datafun-03-datatypes
+2023-09-10 23:47:21,466 This source file is in:           C:\Users\MR011023\Documents\datafun-03-datatypes
+2023-09-10 23:47:21,466 =============================================================
+2023-09-10 23:47:21,466 =============================================================
+2023-09-10 23:47:21,466 Hospital Names = ("Children's Mercy", 'Mayo Clinic', 'Cedars Sinai', 'Cook County', 'Lenox Hill')
+2023-09-10 23:47:21,466 Hospital Cities = ('Kansas City', 'Rochester', 'Los Angeles', 'Chicago', 'New York')
+2023-09-10 23:47:21,466 Calling functions from main block
+2023-09-10 23:47:21,466 hospital_names2 = {'Mayo Clinic', "Children's Mercy", 'Cook County', 'Cedars Sinai', 'Lenox Hill'}
+2023-09-10 23:47:21,466 hospital_cities2 = {'Chicago', 'Los Angeles', 'Rochester', 'Kansas City', 'New York'}
+2023-09-10 23:47:21,466 Union is: {'Mayo Clinic', 'Los Angeles', 'Cedars Sinai', 'Rochester', 'Lenox Hill', 'Chicago', "Children's Mercy", 'New York', 'Kansas City', 'Cook County'}
+2023-09-10 23:47:21,466 Intersection is: set()
+2023-09-10 23:47:21,466 doctor_dict = {'Name': 'Wilson', 'Specialty': 'Cardiology', 'School': 'Harvard'}
+2023-09-10 23:47:21,466 surgeon_dict = {'Name': 'Brown', 'Specialty': 'Orthopaedics', 'School': 'Stanford'}
+2023-09-10 23:47:21,480 Using text_simple.txt, the word_counts_dict = {'One': 1, 'fish': 3, 'two': 1, 'red': 1, 'blue': 1, 'fish.': 1}
+2023-09-10 23:47:21,480 Using text_simple.txt and comprehensions,
+2023-09-10 23:47:21,480 the the word_counts_dict2 = {'One': 1, 'fish': 3, 'two': 1, 'red': 1, 'blue': 1, 'fish.': 1}
