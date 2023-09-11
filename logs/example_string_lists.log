@@ -1,0 +1,24 @@
+2023-09-05 19:42:30,080 =============================================================
+2023-09-05 19:42:30,080 =============================================================
+2023-09-05 19:42:30,080 Today is 2023-09-05 at 07:42 PM
+2023-09-05 19:42:30,103 This file is running on: nt Windows 10
+2023-09-05 19:42:30,103 The Python version is: 3.11.5
+2023-09-05 19:42:30,103 The active conda environment is:  None
+2023-09-05 19:42:30,103 The active pip environment is:    None
+2023-09-05 19:42:30,103 The active environment path is:   C:\Program Files\Python311
+2023-09-05 19:42:30,103 The current working directory is: C:\Users\MR011023\Documents\datafun-03-datatypes
+2023-09-05 19:42:30,114 This source file is in:           C:\Users\MR011023\Documents\datafun-03-datatypes
+2023-09-05 19:42:30,114 =============================================================
+2023-09-05 19:42:30,114 =============================================================
+2023-09-05 19:42:30,114 Calling functions from main block
+2023-09-05 19:42:30,114 Calling process_text_woodchuck()
+2023-09-05 19:42:30,120 The list of words is: ['How', 'much', 'wood', 'would', 'a', 'woodchuck', 'chuck', 'if', 'a', 'woodchuck', 'could', 'chuck', 'wood?', 'He', 'would', 'chuck,', 'he', 'would,', 'as', 'much', 'as', 'he', 'could,', 'and', 'chuck', 'as', 'much', 'wood', 'as', 'a', 'woodchuck', 'would', 'if', 'a', 'woodchuck', 'could', 'chuck', 'wood.']
+2023-09-05 19:42:30,120 There are 38 words in the file.
+2023-09-05 19:42:30,120 The set of unique words is: {'wood.', 'a', 'woodchuck', 'chuck', 'chuck,', 'wood', 'as', 'He', 'would', 'wood?', 'How', 'he', 'could', 'and', 'if', 'would,', 'much', 'could,'}
+2023-09-05 19:42:30,120 There are 18 unique words in the file.
+2023-09-05 19:42:30,120 Calling create_random_sentence()
+2023-09-05 19:42:30,120 Random sentence: The sad dog jumps quickly.
+2023-09-05 19:42:30,120 Calling create_random_sentence()
+2023-09-05 19:42:30,121 Random sentence: The happy dog flies slowly.
+2023-09-05 19:42:30,121 Calling play_game()
+2023-09-05 19:42:30,121 ready_for_continous_game = True

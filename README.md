@@ -2,6 +2,9 @@
 
 > Practice with Python data types, filter(), map(), and list comprehensions
 
+> Matt Riley
+> 9/10/2023
+> Healthcare
 
 ## Get Started
 
